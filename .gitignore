@@ -1,3 +1,6 @@
 nimcache/
 nimblecache/
 htmldocs/
+solution
+solution.exe
+!solution.nim

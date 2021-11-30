@@ -1,2 +1,1 @@
-# AoN21
-Advent of Nim 2021
+# [Advent](https://adventofcode.com/) of [Nim](https://nim-lang.org/) 2021
